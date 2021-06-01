@@ -6,7 +6,7 @@ Kocaeli Üniversitesi Bilgisayar Mühendisliği PROLAB-II,2020-2021 Bahar Dönem
 ![3](https://user-images.githubusercontent.com/72103654/120367156-d24bad00-c310-11eb-954c-81f9a5f0878a.PNG)
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/72103654/120367165-d4157080-c310-11eb-9a72-334d84dbf47c.PNG)
               
-                  Sign Up Panel and Registration Panel
+                  Sign Up Panel and Login Panel
                    
 ![Ekran Alıntısı2](https://user-images.githubusercontent.com/72103654/120366776-581b2880-c310-11eb-8182-f616249564aa.PNG)
               
