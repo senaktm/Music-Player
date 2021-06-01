@@ -19,7 +19,9 @@ Kocaeli Üniversitesi Bilgisayar Mühendisliği PROLAB-II,2020-2021 Bahar Dönem
 
 
 ![5](https://user-images.githubusercontent.com/72103654/120366805-6406ea80-c310-11eb-9217-21643dc925e2.PNG)
+
 ![6](https://user-images.githubusercontent.com/72103654/120366811-65d0ae00-c310-11eb-8660-8c9bb29f2bf9.PNG)
+
 ![7](https://user-images.githubusercontent.com/72103654/120366817-679a7180-c310-11eb-9c3f-c9e0e6735d98.PNG)
 
 
